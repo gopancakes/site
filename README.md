@@ -35,7 +35,8 @@ And thank you! 🥞
 
 ## Credits
 
-Homepage photo by [nikldn](https://unsplash.com/@nikldn) on [Unsplash](https://unsplash.com/s/photos/pancakes).
+* Homepage photo by [nikldn](https://unsplash.com/@nikldn) on [Unsplash](https://unsplash.com/s/photos/pancakes).
+* [Anake Theme](https://github.com/theNewDynamic/gohugo-theme-ananke/)
 
 ---
 
