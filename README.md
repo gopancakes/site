@@ -29,7 +29,7 @@ The places that we've been too and reviewed are [here](https://gopancakes.de/rev
 ## Do you have a recommendation? 🎉
 
 Amaaazing! 🥹
-Please open [an issue](https://github.com/eliflores/gopancakes/issues) in [this repository](https://github.com/eliflores/gopancakes/).
+Please open [an issue](https://github.com/eliflores/gopancakes/issues) in this repository.
 
 And thank you! 🥞
 
