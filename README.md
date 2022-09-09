@@ -24,6 +24,16 @@ The places that we've been too and reviewed are [here](https://gopancakes.de/rev
 * The Place 🌻
   * Ambiance 
   * Service
+  
+#### How do we review? ⭐️ 
+
+With little stars: ⭐
+
+* Amazing ⭐⭐⭐⭐
+* Very good ⭐⭐⭐
+* Good ⭐⭐
+* Okay ⭐
+* Noup
 
 
 ## Do you have a recommendation? 🎉
