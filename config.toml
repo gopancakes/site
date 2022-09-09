@@ -1,4 +1,4 @@
 baseURL = 'https://gopancakes.de/'
 languageCode = 'en-us'
 title = 'Go Pancakes'
-theme = "ananke"
+theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
