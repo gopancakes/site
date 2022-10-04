@@ -7,7 +7,7 @@ menu: main
 
 We are a group of food enthusiasts in the search for the dreamy Pancakes 🥞
 
-We have a [Bucket List](https://github.com/users/eliflores/projects/2/views/1) of places to go and taste Pancakes.
+We have a [Bucket List](https://github.com/orgs/gopancakes/projects/1/views/1) of places to go and taste Pancakes.
 
 ## The Reviews
 
@@ -41,7 +41,7 @@ And we may add comments too in the review.
 ## Do you have a recommendation? 🎉
 
 Amaaazing! 🥹
-Please open [an issue](https://github.com/eliflores/gopancakes/issues) in the [gopancakes repository](https://github.com/eliflores/gopancakes/).
+Please open [an issue](https://github.com/gopancakes/site/issues) in the [gopancakes/site repository](https://github.com/gopancakes/site/).
 
 And thank you! 🥞
 
