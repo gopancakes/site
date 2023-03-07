@@ -12,6 +12,10 @@ And so in these lines, we decided to go and try the _Vegan Pancake_ that also ha
 
 🌱 If you are looking for a place with Vegan and Gluten Free pancakes, this can be an option!
 
+We visited Factory Girl back in September 2022, another long due review 🤭that also happened through a
+direct message in Slack, and before GoPancakes was created, and before our decision to share our reviews
+with the World.
+
 ## Our Review
 
 * The Pancakes 🥞
