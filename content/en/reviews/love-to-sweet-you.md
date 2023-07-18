@@ -29,5 +29,5 @@ They offer a variety of breakfast and lunch options, apart from the pancakes �
     * Extras: ⭐⭐ - I think the extras were what I would consider the pancakes toppings (vanilla sauce, fruits, nutella), and there were no extras (such as eggs, bacon, etc.) offered along with the pancakes, although there were scrambled eggs on the menu, and one could order them separately.
 * Drinks: ⭐⭐⭐⭐ - There are various drinks: coffee, tea, and a homemade ice tea, that I heard from very good sources that it is delicious.
 * The Place 🌻
-    * Ambiance: The ambiance was nice outside were got to sit. The place is located in what I would consider a quiet area, so there was not much noise, ane we could have a nice and very interesting conversation.
+    * Ambiance: The ambiance was nice outside were got to sit. The place is located in what I would consider a quiet area, so there was not much noise, and we could have a nice and very interesting conversation.
     * Service: The service was nice, the drinks came very quick, and I did not have the feeling that the food took long to arrive.
