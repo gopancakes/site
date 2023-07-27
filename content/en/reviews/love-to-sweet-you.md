@@ -1,6 +1,6 @@
 ---
 title: "Love to Sweet You"
-featured_image: '/images/steel_vintage_bikes_cafe.jpg'
+featured_image: '/images/love_to_sweet_you.jpg'
 date: 2023-07-17T20:00:00+02:00
 draft: false
 author: Eli
