@@ -12,7 +12,7 @@ author: Ricardo
 This time we're visiting Bruxelles, Belgium. This is a nice breakfast place that also serves lunches, but of course 
 we're here for the pancakes! 😋
 
-We choose the "IN PANCAKES WE TRUST", which are simple pancackes with syrup, bacon, and... green onions! For 
+We choose the "IN PANCAKES WE TRUST", which are simple pancakes with syrup, bacon, and... green onions! For 
 the pancake purists, having green onions in it may be off putting but I personally found the flavor combination 
 interesting. Conveniently, they also offer a small version of this dish called "THE BABY PRESIDENT" for the small hunger 
 or for the children in the party.
