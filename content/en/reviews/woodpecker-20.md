@@ -1,14 +1,14 @@
 ---
 title: "Woodpecker 20"
 featured_image: '/images/woodpecker20.jpg'
-date: 2023-03-07T20:00:00+02:00
+date: 2023-05-09T20:00:00+02:00
 draft: false
 author: Ricardo
 ---
 
 ## About Woodpacker 20
 
-[Woodpecker 20](https://woodpecker.family/menu-wp20) is the first international entry to the gopancakes guide. 
+[Woodpecker 20](https://woodpecker.family/menu-wp20) is the second international entry to the gopancakes guide. 
 This time we're visiting Bruxelles, Belgium. This is a nice breakfast place that also serves lunches, but of course 
 we're here for the pancakes! 😋
 
