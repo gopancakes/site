@@ -22,6 +22,7 @@ However, when we left the place was full and there was a queue to get a table.
 
 They don't only offer pancakes 🥞, but also other breakfast / brunch options. See the menu [here](https://jimdo-storage.global.ssl.fastly.net/file/564a351a-7521-481a-ba21-066ba01f0fda/ENGLISHJULI2023.pdf).
 I went with the Butter & maple syrup pancakes. There are other options: Nutella & bananas, Nutella & strawberries, Blueberry compote & vanilla crude, and more!
+
 A side note, after reading the menu more carefully, I got the impression that the menu is designed for the pancakes to be the sweet option, after eating other things. 
 There is a section in the menu that says: "HUNGRY? START WITH....", then in another page "CONTINUE WITH...." and finally "YOU CAN’T LEAVE THE SHOP
 WITHOUT SOMETHING SWEET..." - here, in this last section is where the pancakes are listed. This may be the reason that we only got one pancake. 
