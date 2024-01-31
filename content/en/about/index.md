@@ -11,7 +11,7 @@ We have a [Bucket List](https://github.com/orgs/gopancakes/projects/1/views/1) o
 
 ## The Reviews
 
-The places that we've been too and reviewed are [here](https://gopancakes.de/reviews/).
+The places that we've been to and reviewed are [here](https://gopancakes.de/reviews/).
 
 ### What do we review?
 
