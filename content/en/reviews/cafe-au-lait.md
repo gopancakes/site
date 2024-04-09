@@ -19,7 +19,7 @@ Before your visit, we recommend to:
 ## The Review
 
 * The Pancakes 🥞
-    * Fluffiness: ⭐⭐⭐ - Not very fluffy.
+    * Fluffiness: ⭐⭐⭐ - There might be a variation on the fluffiness, depending on the pancakes you order. The pancakes with caramelized cinnamon apples were fluffier than the ones with fruits and mango purée.
     * Maple Syrup: ⭐⭐⭐ - Good Maple Syrup, and enough for the pancakes.
     * Flavor: ⭐⭐⭐ - The flavor was good! Buttery flavor, one might find the flavour very sweet, but it was okay for me.
     * Toppings: ⭐⭐⭐ - The pancakes are offered in combination with various toppings such as: fruits, mascarpone, caramelized cinnamon apples, and more.
